@@ -1,0 +1,28 @@
+<section>
+  <h2>Salinha de Sinais</h2>
+  <p>Aqui você encontra alguns exemplos de sinais gerados em tempo real pelo Hacker Mines Life 1.0:</p>
+
+  <div style="background: #1a1a1a; padding: 20px; border-radius: 10px; margin-top: 20px;">
+    <div style="margin-bottom: 15px;">
+      <strong>Horário:</strong> 14:32<br>
+      <strong>Sinal:</strong> Evite as 3 primeiras casas da fileira<br>
+      <strong>Precisão:</strong> 89%<br>
+      <strong>Obs:</strong> Alta chance de bomba nas extremidades
+    </div>
+    <div style="margin-bottom: 15px;">
+      <strong>Horário:</strong> 14:45<br>
+      <strong>Sinal:</strong> Clique na diagonal inferior até 3 casas<br>
+      <strong>Precisão:</strong> 84%<br>
+      <strong>Obs:</strong> Tendência de padrão seguro em zigue-zague
+    </div>
+    <div style="margin-bottom: 15px;">
+      <strong>Horário:</strong> 15:02<br>
+      <strong>Sinal:</strong> Evite o centro nas 2 primeiras jogadas<br>
+      <strong>Precisão:</strong> 91%<br>
+      <strong>Obs:</strong> Padrão baseado em varredura estatística
+    </div>
+    <p style="color: #00ff88;"><em>Atualizações em tempo real disponíveis via grupo VIP no WhatsApp.</em></p>
+  </div>
+</section>
+
+
